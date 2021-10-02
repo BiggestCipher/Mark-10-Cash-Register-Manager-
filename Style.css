@@ -43,6 +43,10 @@ body {
   margin: auto;
 }
 
+#error-message {
+  font-size: 1.3rem;
+}
+
 caption {
   font-size: 1.5rem;
   margin-bottom: 1.5rem;
