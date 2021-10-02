@@ -4,5 +4,7 @@ It also tells the Cashier, how he can return extra money .
 
 This Project is made with VanillaJS, Html and CSS.
 
+Live Link of Project: https://mark-10-cash-registering.netlify.app/
+
 
 
